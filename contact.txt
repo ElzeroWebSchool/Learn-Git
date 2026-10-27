@@ -1,1 +1,1 @@
-Contact: team@example.com
+Contact: hello@example.com
